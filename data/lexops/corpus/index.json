@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "playbook-overview",
+    "title": "Northwind Contract Negotiation Playbook: Overview",
+    "section": "playbook",
+    "markdown": "corpus/markdown/playbook-overview.md",
+    "pdf": "corpus/pdf/playbook-overview.pdf",
+    "chars": 3542
+  },
+  {
+    "slug": "risk-scoring",
+    "title": "Clause Risk Scoring Methodology",
+    "section": "playbook",
+    "markdown": "corpus/markdown/risk-scoring.md",
+    "pdf": "corpus/pdf/risk-scoring.pdf",
+    "chars": 5287
+  },
+  {
+    "slug": "not-legal-advice",
+    "title": "Output Disclaimer and Use Restrictions Standard",
+    "section": "compliance",
+    "markdown": "corpus/markdown/not-legal-advice.md",
+    "pdf": "corpus/pdf/not-legal-advice.pdf",
+    "chars": 4683
+  },
+  {
+    "slug": "clause-liability-cap",
+    "title": "Playbook: Limitation of Liability",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-liability-cap.md",
+    "pdf": "corpus/pdf/clause-liability-cap.pdf",
+    "chars": 8606
+  },
+  {
+    "slug": "clause-indemnification",
+    "title": "Playbook: Indemnification",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-indemnification.md",
+    "pdf": "corpus/pdf/clause-indemnification.pdf",
+    "chars": 8294
+  },
+  {
+    "slug": "clause-termination",
+    "title": "Playbook: Termination and Survival",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-termination.md",
+    "pdf": "corpus/pdf/clause-termination.pdf",
+    "chars": 7603
+  },
+  {
+    "slug": "clause-governing-law",
+    "title": "Playbook: Governing Law and Dispute Resolution",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-governing-law.md",
+    "pdf": "corpus/pdf/clause-governing-law.pdf",
+    "chars": 6930
+  },
+  {
+    "slug": "clause-confidentiality",
+    "title": "Playbook: Confidentiality",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-confidentiality.md",
+    "pdf": "corpus/pdf/clause-confidentiality.pdf",
+    "chars": 9191
+  },
+  {
+    "slug": "clause-data-protection",
+    "title": "Playbook: Data Protection and Processing",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-data-protection.md",
+    "pdf": "corpus/pdf/clause-data-protection.pdf",
+    "chars": 7038
+  },
+  {
+    "slug": "clause-ip-ownership",
+    "title": "Playbook: Intellectual Property Ownership",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-ip-ownership.md",
+    "pdf": "corpus/pdf/clause-ip-ownership.pdf",
+    "chars": 7532
+  },
+  {
+    "slug": "clause-payment-terms",
+    "title": "Playbook: Payment Terms and Late Fees",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-payment-terms.md",
+    "pdf": "corpus/pdf/clause-payment-terms.pdf",
+    "chars": 7843
+  },
+  {
+    "slug": "clause-sla-credits",
+    "title": "Playbook: Service Levels and Service Credits",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-sla-credits.md",
+    "pdf": "corpus/pdf/clause-sla-credits.pdf",
+    "chars": 7275
+  },
+  {
+    "slug": "clause-assignment",
+    "title": "Playbook: Assignment and Change of Control",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-assignment.md",
+    "pdf": "corpus/pdf/clause-assignment.pdf",
+    "chars": 8660
+  },
+  {
+    "slug": "clause-audit-rights",
+    "title": "Playbook: Audit Rights",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-audit-rights.md",
+    "pdf": "corpus/pdf/clause-audit-rights.pdf",
+    "chars": 7742
+  },
+  {
+    "slug": "clause-non-solicit",
+    "title": "Playbook: Non-Solicitation",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-non-solicit.md",
+    "pdf": "corpus/pdf/clause-non-solicit.pdf",
+    "chars": 7770
+  },
+  {
+    "slug": "clause-force-majeure",
+    "title": "Playbook: Force Majeure",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-force-majeure.md",
+    "pdf": "corpus/pdf/clause-force-majeure.pdf",
+    "chars": 7001
+  },
+  {
+    "slug": "clause-publicity",
+    "title": "Playbook: Publicity and Reference Rights",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-publicity.md",
+    "pdf": "corpus/pdf/clause-publicity.pdf",
+    "chars": 8055
+  },
+  {
+    "slug": "clause-insurance",
+    "title": "Playbook: Insurance Requirements",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-insurance.md",
+    "pdf": "corpus/pdf/clause-insurance.pdf",
+    "chars": 7221
+  },
+  {
+    "slug": "clause-subprocessors",
+    "title": "Playbook: Subprocessor Approval",
+    "section": "clause_library",
+    "markdown": "corpus/markdown/clause-subprocessors.md",
+    "pdf": "corpus/pdf/clause-subprocessors.pdf",
+    "chars": 9079
+  }
+]
